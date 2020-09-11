@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+        <div id="div1"></div>
+
+        <script>
+
+            var names = ["Lars", "Peter", "Kurt"];
+            var makeUL = function (items) {
+                var inner = items.map(item => ("\t<li>" + item + "</li>"));
+                inner.unshift("<ul>");
+                inner.push("</ul>");
+                return inner.join("\n");
+            };
+            document.getElementById("div1").innerHTML = makeUL(names);
+
+        </script>
+
+    </body>
+</html>
+
