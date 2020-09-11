@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Youneselb/3semWeek37.svg?branch=master)](https://travis-ci.com/Youneselb/3semWeek37)
+
 WEEK 37 - Yones El Bana 
 
 Project deployed to : 
