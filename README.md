@@ -14,7 +14,7 @@ Travis building failed, because of mistakes in .travis.yml file, that I could no
 
 Wednesday: JavaScript Array and day 3 excercises complete.
 
-Thursday/Friday: Not finished completely, reached halfway. JavaScript new...</p>
+Thursday/Friday: Not finished completely, reached halfway. JavaScript still very new, after only initial introduction :) 
         
        
      
