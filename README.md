@@ -1,10 +1,10 @@
 [![Build Status](https://travis-ci.com/Youneselb/3semWeek37.svg?branch=master)](https://travis-ci.com/Youneselb/3semWeek37)
 
-Genereal status:
-Project could not be deployed to : https://younes.club, because of subbranch problem in Github, that I tried to work around, 
+General status:
+Project could not be deployed to begin with, because of subbranch problem in Github, that I tried to work around, 
 by changing folders and so on, which started giving me build problems in netbeans (might have messed som packaging). But code and all tests were working before that (as can be observed). 
 
-But earlier projects have been deplyoed (https://younes.club/Monitor/), so the procedure is known. 
+Links can now bee seen at: https://younes.club/devops-starter-1.0.1
 
 Travis build fail, because of mistakes in .travis.yml file, that I could not fix. https://travis-ci.com/github/Youneselb/3semWeek37 .
 
